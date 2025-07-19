@@ -16,5 +16,5 @@ python example.py
 ```
 
 ### Notes:
-TODO: Fix hotkeys message events as the page does not execute them
-Hotkey messages are based on Windows virtual keys, so may not work on non-Windows machines!
+- TODO: Fix hotkeys message events as the page does not execute them
+- Hotkey messages are based on Windows virtual keys, so may not work on non-Windows machines!
