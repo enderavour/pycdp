@@ -5,7 +5,7 @@ from time import sleep
 def main():
     chrome = ChromeManager(
         r"C:\Program Files\Google\Chrome\Application\chrome.exe",  
-        r"C:\Users\vovab\AppData\Local\Google\Chrome\User Data\Default",  
+        r"C:\Users\user\AppData\Local\Google\Chrome\User Data\Default",  
         False,
     )
 
